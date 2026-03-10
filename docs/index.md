@@ -6,7 +6,7 @@ hero:
   name: "Farming and Friends WIKI"
   text: "A place of information"
   image:
-    src: https://github.com/XxPoggyisLitxX/better-on-bedrock-wiki/raw/refs/heads/main/Main/assets/title.png
+    src: https://raw.githubusercontent.com/Kvadrau/Farming-And-Friend-Unofficial-WIKI/refs/heads/main/docs/images/Logo.png
     alt: VitePress
   actions:
     - theme: alt
@@ -14,7 +14,7 @@ hero:
       link: /
     - theme: alt
       text: Beginners Guide
-      link: /Main/beginners-guide/getting-started.md
+      link: /Main/beginners-guide/getting-started
     - theme: alt
       text: Events
       link: /
